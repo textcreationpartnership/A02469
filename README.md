@@ -36,11 +36,25 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sight of the Portugall pearle, that is, the aunsvvere of D. Haddon maister of the requests vnto ou
+
+1. Ad amicum P. Sextum.
+
+1. To Mayster Shacklock.
+
+1. ¶THE PREFACE.
+
+1. CERTAINE SENTENCES COLlected out of Osorius in Englyshe.
+
+1. The Preface.
+
 #####Body#####
-A sight of the Portugall pearle, that is, the aunsvvere of D. Haddon maister of the requests vnto ou
+
+1. GVALTER HADdon Englishe vnto Hieronimus Ossorius a Portugall wysheth healthe.
+
 #####Back#####
-A sight of the Portugall pearle, that is, the aunsvvere of D. Haddon maister of the requests vnto ou
+
+1. A fault escaped.
+¶Imprinted at London by Wyllyam Seres dwelling at the west ende of Paules Church, at the sygne of th
 **Types of content**
 
   * There are 18 **verse** lines!
